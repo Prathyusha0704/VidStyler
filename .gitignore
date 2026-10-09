@@ -1,0 +1,26 @@
+.venv/
+.gradio/
+__pycache__/
+weights
+*.egg-info
+*.pyc
+temp
+**/*.png
+.obsidian/
+.makemd/
+.space/
+.trash/
+Tags/
+# Python virtual environments
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+
+# Temporary files
+*.log
+tmp/
+outputs
+/img/src/
